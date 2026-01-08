@@ -22,7 +22,7 @@ jobs:
           cpsScm {
             scm {
               git {
-                remote { url('file:///demo-repo') }
+                remote { url('file:/demo-repo') }
                 branch('*/main')
               }
             }

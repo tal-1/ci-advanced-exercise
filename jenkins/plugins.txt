@@ -5,3 +5,4 @@ workflow-aggregator
 pipeline-stage-view
 docker-workflow
 ws-cleanup
+job-dsl
